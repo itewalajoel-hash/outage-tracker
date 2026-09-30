@@ -1,6 +1,6 @@
 # Outage Tracker
 
-A USSD + SMS service I built for an Africa's Talking event to help internet providers like Savannah detect problems early. Users dial a code, pick their area and report an issue, with no data or smartphone needed. When 3 or more reports hit an area within 30 minutes, subscribers get an SMS alert.
+A USSD + SMS service I built for an Africa's Talking event to help internet providers detect problems early. Users dial a code, pick their area and report an issue, with no data or smartphone needed. When 3 or more reports hit an area within 30 minutes, subscribers get an SMS alert.
 
 Built with Flask by a first-year student at Uganda Christian University (UCU).
 
